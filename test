@@ -1,0 +1,1018 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://melindakucsera.com/xmlrpc.php">
+
+<title>in medias res by Melinda Kucsera</title>
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Lato:r:latin,latin-ext","Lato:r,i,b,bi:latin,latin-ext"]}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s1.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active body, .wf-active button, .wf-active input, .wf-active select, .wf-active textarea{font-family:"Lato",sans-serif}.wf-active h1, .wf-active h2:not(.author-title), .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-family:"Lato",sans-serif;font-weight:400;font-style:normal}.wf-active h1{font-style:normal;font-weight:400}.wf-active h2:not(.author-title){font-style:normal;font-weight:400}.wf-active h3{font-style:normal;font-weight:400}.wf-active h4{font-style:normal;font-weight:400}.wf-active h5{font-style:normal;font-weight:400}.wf-active h6{font-style:normal;font-weight:400}.wf-active .post-navigation .post-title{font-family:"Lato",sans-serif;font-weight:400;font-style:normal}.wf-active .widget-title, .wf-active .widgettitle{font-style:normal;font-weight:400}.wf-active .site-title{font-style:normal;font-weight:400}.wf-active .featured-content .entry-title{font-style:normal;font-weight:400}.wf-active .page-title{font-style:normal;font-weight:400}.wf-active .archive .hentry .entry-title, .wf-active .blog .hentry .entry-title, .wf-active .search .hentry .entry-title{font-style:normal;font-weight:400}.wf-active .page .entry-title, .wf-active .single .entry-title{font-style:normal;font-weight:400}.wf-active .author-info .author-name{font-style:normal;font-weight:400}.wf-active .comment-reply-title, .wf-active .comments-title, .wf-active .no-comments{font-style:normal;font-weight:400}.wf-active .no-comments{font-family:"Lato",sans-serif;font-weight:400;font-style:normal}.wf-active .comment-list .comment-reply-title small, .wf-active .comment-metadata, .wf-active .comment-reply-link{font-family:"Lato",sans-serif;font-weight:400;font-style:normal}.wf-active .hentry div#jp-relatedposts h3.jp-relatedposts-headline{font-family:"Lato",sans-serif;font-weight:400;font-style:normal}.wf-active .hentry div#jp-relatedposts div.jp-relatedposts-items .jp-relatedposts-post-context{font-family:"Lato",sans-serif;font-weight:400;font-style:normal}.wf-active .hentry div#jp-relatedposts div.jp-relatedposts-items .jp-relatedposts-post-title{font-family:"Lato",sans-serif;font-weight:400;font-style:normal}.wf-active .widget-grofile h4{font-style:normal;font-weight:400}@media screen and (min-width: 768px){.wf-active .site-title{font-style:normal;font-weight:400}}.wf-active .aboutme_widget #am_name{font-style:normal;font-weight:400}.wf-active .aboutme_widget #am_headline{font-style:normal;font-weight:400}</style>
+<meta name="google-site-verification" content="IqBsRLLr8Z17HrIPo0zehCkiY27WNmlhzwlK6ZLtQ-U" />
+<link rel="alternate" type="application/rss+xml" title="in medias res by Melinda Kucsera &raquo; Feed" href="https://melindakucsera.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="in medias res by Melinda Kucsera &raquo; Comments Feed" href="https://melindakucsera.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/_static/??-eJx9kN1SxCAMhV9IFutoxxvHZyk0u2QLhCFg7dubbl0udIcb5iScL396TcpSLBCLDlUlXy8YWa/JUlAc0MP2JzpZ5if9GONq2GZMBUmiM3lPa8/v6AuyMtUYD0KXzUOzY7S+zpKWhJ4ndigF+BQw/rdcWRf5Xwx9N9Hr63HZKShpsou6RT07xjNGLFsT3Rs4ysXSfXL2KNLRqtpHj55mWVCZKf8evcUHhDpSuR2iiV41SxkkH9JUdkeAGSfwEMTWw0Ia79QunRyp2+YY1ZiUgVnJG7AGVZw06nIXiJCPbR7Knf0MH8PrODy/Dy/j2/UH2/8DnA==' type='text/css' media='all' />
+<link rel='stylesheet' id='gazette-lora-css'  href='https://fonts.googleapis.com/css?family=Lora%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gazette-lato-inconsolata-css'  href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext&#038;ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-4' href='https://s1.wp.com/_static/??-eJx9jksKAjEMQC9kDMqIuhDP0unEGmmb0mQc9PSOuPGD3YQ8eI8EpwJeslE2tDMlUixjj8HdyYxQ7RZp6VUX2BY5+5cMU/GSfpI0Qolj4Kw48RDIFFU8uwiJBnbAs6h/zr21lOTCr9nSstj8nxsSZ+hdheu6ZQcSiOKdseQPgFN0XFtppT5KmNeAs/WGrchEoVKRanCSmr75mR7TYdVt9l232666ywMKZp1Z' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-5' href='https://s1.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1444132114h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-6' href='https://s0.wp.com/_static/??-eJx9jOEKwjAMhF/IGB1Df4nP0rW1i6RNaTL2+m6gAxH347g7uO9wruClWCyGeYLKU6Ki6EKmAoNrOFcvGbYOWQbiePSqB/zDeiMpK7ulvXkVNXiwo4Y6ukYlfXyPUvHkGFiSfJcfyMaYo+LYY2IZHO+9zhRSNMVl8s6QGgVwJQCT2sre8+3cX06Lumv3fAF/EXaI' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJx9kFEKwjAMQC9kVyc6/BHPstVspLZpbVKHnt5+TMRRhUAIeSR50XNUSMblC7C2JW4Z0mNJjeWN/gcoj1PqBRqP9IZNIAES7bOKLk9IrDkPbBJGwVCqMTgX5jVeRsfA4oG5n6DS9WFAByozpAKQlKvGUOG+DZDuCLVlK1GQ2JurSsD4hJo3x4/i74ct1Nmf2n3Xbo/trjvYF0j/hTM='></script>
+<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://melindakucsera.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/6EtgP' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="in medias res by Melinda Kucsera" />
+<meta property="og:url" content="https://melindakucsera.com/" />
+<meta property="og:site_name" content="in medias res by Melinda Kucsera" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel='openid.server' href='https://melindakucsera.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://melindakucsera.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://melindakucsera.com/osd.xml" title="in medias res by Melinda Kucsera" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="in medias res by Melinda Kucsera" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Author posts, manage comments, and manage in medias res by Melinda Kucsera." /><meta name="msapplication-task" content="name=Write a post;action-uri=https://wordpress.com/post/melindakucsera.com;icon-uri=https://s2.wp.com/i/icons/post.ico" /><meta name="msapplication-task" content="name=Moderate comments;action-uri=https://melindakucsera.wordpress.com/wp-admin/edit-comments.php?comment_status=moderated;icon-uri=https://s0.wp.com/i/icons/comment.ico" /><meta name="msapplication-task" content="name=Upload new media;action-uri=https://melindakucsera.wordpress.com/wp-admin/media-new.php;icon-uri=https://s2.wp.com/i/icons/media.ico" /><meta name="msapplication-task" content="name=Blog stats;action-uri=https://melindakucsera.wordpress.com/wp-admin/index.php?page=stats;icon-uri=https://s1.wp.com/i/icons/stats.ico" /><meta name="title" content="in medias res by Melinda Kucsera on WordPress.com" />
+	<style type="text/css">
+			.site-title,
+		.site-description {
+			color: #3863c1;
+		}
+		</style>
+	<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+
+<body class="home blog logged-in admin-bar no-customize-support mp6 customizer-styles-applied highlander-enabled highlander-light infinite-scroll">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-header-inner">
+			<div class="site-branding">
+								<h1 class="site-title"><a href="https://melindakucsera.com/" rel="home">in medias res by Melinda Kucsera</a></h1>
+				<h2 class="site-description"></h2>
+			</div><!-- .site-branding -->
+
+							<nav id="site-navigation" class="main-navigation" role="navigation">
+					<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><span class="screen-reader-text">Primary Menu</span></button>
+					<div class="menu-menu-1-container"><ul id="primary-menu" class="menu"><li id="menu-item-34636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34636"><a href="https://melindakucsera.com/category/aerials/">Aerials</a>
+<ul class="sub-menu">
+	<li id="menu-item-39069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39069"><a href="https://melindakucsera.com/aerials/">Aerials  &#8211; ToC</a></li>
+	<li id="menu-item-39070" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-39070"><a href="https://melindakucsera.com/2016/03/04/aerials-part-1/">Aerials Part 1</a></li>
+</ul>
+</li>
+<li id="menu-item-34635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34635"><a href="https://melindakucsera.com/category/curse-breaker/">Curse Breaker: Enchanted</a>
+<ul class="sub-menu">
+	<li id="menu-item-34637" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-34637"><a href="https://melindakucsera.com/2015/09/08/breaking-curses/">Breaking Curses</a></li>
+	<li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://melindakucsera.com/curse-breaker-enchanted/">Curse Breaker: Enchanted &#8211; ToC</a></li>
+	<li id="menu-item-39071" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-39071"><a href="https://melindakucsera.com/2016/04/02/curse-breaker-indentured/">Indentured</a></li>
+	<li id="menu-item-1611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1611"><a href="https://melindakucsera.com/2015/10/17/when-worlds-collide/">When Worlds Collide…</a></li>
+</ul>
+</li>
+<li id="menu-item-39074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-39074"><a href="https://melindakucsera.com/category/lord-of-the-sea/">Lord of the Sea</a>
+<ul class="sub-menu">
+	<li id="menu-item-39072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39072"><a href="https://melindakucsera.com/lots/">Lord of the Sea &#8211; ToC</a></li>
+	<li id="menu-item-39073" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-39073"><a href="https://melindakucsera.com/2016/04/10/artic-mission-lord-of-the-sea/">Artic Mission</a></li>
+</ul>
+</li>
+<li id="menu-item-40589" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-has-children menu-item-40589"><a href="https://melindakucsera.com/tag/quest/">Quest</a>
+<ul class="sub-menu">
+	<li id="menu-item-39075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39075"><a href="https://melindakucsera.com/quest/">Quest &#8211; ToC</a></li>
+	<li id="menu-item-39076" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-39076"><a href="https://melindakucsera.com/2016/01/06/a-quiet-quest/">A Quiet Quest?</a></li>
+</ul>
+</li>
+<li id="menu-item-39079" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-has-children menu-item-39079"><a href="https://melindakucsera.com/tag/request/">(Re) Quest</a>
+<ul class="sub-menu">
+	<li id="menu-item-39077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39077"><a href="https://melindakucsera.com/re-quest/">(Re) Quest &#8211; ToC</a></li>
+	<li id="menu-item-39078" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-39078"><a href="https://melindakucsera.com/2016/03/10/the-first-quest-a-last-request-part-1/">The First Quest – A Last Request Part 1</a></li>
+</ul>
+</li>
+<li id="menu-item-1118" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-has-children menu-item-1118"><a href="https://melindakucsera.com/tag/poem/">Poems</a>
+<ul class="sub-menu">
+	<li id="menu-item-34633" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-34633"><a href="https://melindakucsera.com/tag/seven-deadly-sins/">Senryu&#8217;s 7 Deadly Sins</a></li>
+	<li id="menu-item-34647" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-34647"><a href="https://melindakucsera.com/tag/virtues/">Senryu&#8217;s 7 Virtues</a></li>
+	<li id="menu-item-36032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36032"><a href="https://melindakucsera.com/category/emotional-abcs/">Emotional ABCs</a></li>
+</ul>
+</li>
+<li id="menu-item-1614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1614"><a href="https://melindakucsera.com/stars-and-angels-sing-official/">Stars &amp; Angels Sing</a>
+<ul class="sub-menu">
+	<li id="menu-item-39080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39080"><a href="https://melindakucsera.com/stars-and-angels-sing-official/sample-chapter/">Sample Chapter</a></li>
+</ul>
+</li>
+<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-217"><a href="https://melindakucsera.com/tales-of-shayari/">Tales of Shayari</a>
+<ul class="sub-menu">
+	<li id="menu-item-1612" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1612"><a href="https://melindakucsera.com/2015/10/15/tales-of-shayari-death-of-a-king/">Death of a King</a></li>
+	<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="https://melindakucsera.com/nulthir/">Nulthir</a></li>
+	<li id="menu-item-1613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1613"><a href="https://melindakucsera.com/tales-of-shayari/">More Tales of Shayari</a></li>
+</ul>
+</li>
+<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-209"><a href="https://melindakucsera.com/about/">About the Author</a>
+<ul class="sub-menu">
+	<li id="menu-item-39068" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-39068"><a href="https://melindakucsera.com/2015/11/08/shayari-where-i-write-writing-101-6/">Shayari – Where I Write</a></li>
+	<li id="menu-item-1850" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1850"><a href="https://melindakucsera.com/2015/10/30/imaginary-friend-a-daily-post-sonnet/">Imaginary Friends</a></li>
+	<li id="menu-item-1851" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1851"><a href="https://melindakucsera.com/2015/11/01/i-write-because/">I Write Because…</a></li>
+	<li id="menu-item-8318" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8318"><a href="https://melindakucsera.com/2015/12/02/self-portrait/">Self Portrait?</a></li>
+</ul>
+</li>
+<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-210"><a href="https://melindakucsera.com/in-memoriam/">In Memoriam</a>
+<ul class="sub-menu">
+	<li id="menu-item-1615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1615"><a href="https://melindakucsera.com/in-memoriam/">Dedication</a></li>
+	<li id="menu-item-789" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-789"><a href="https://melindakucsera.com/2015/09/27/for-my-sister/">For My Sister</a></li>
+	<li id="menu-item-1605" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1605"><a href="https://melindakucsera.com/2015/10/20/pic-and-a-word-challenge-footprints/">In Your Footprints</a></li>
+	<li id="menu-item-1606" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1606"><a href="https://melindakucsera.com/2015/10/24/a-crown-of-sonnets-for-your-soul-a-stomp-prompt/">A Crown of  Sonnets for Your Soul</a></li>
+	<li id="menu-item-1607" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1607"><a href="https://melindakucsera.com/2015/10/16/sestina-o-guardian-most-dear/">O, Guardian Most Dear</a></li>
+</ul>
+</li>
+</ul></div>				</nav><!-- #site-navigation -->
+			
+			<div id="search-header" class="search-header">
+				<button class="search-toggle" aria-controls="search-form" aria-expanded="false"><span class="screen-reader-text">Search</span></button>
+				<form role="search" method="get" class="search-form" action="https://melindakucsera.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div><!-- #search-header -->
+		</div><!-- .site-header-inner -->
+	</header><!-- #masthead -->
+
+	
+	<div id="content" class="site-content">
+
+
+<div id="featured-content" class="featured-content">
+	
+<article id="post-41712" class="post-41712 post type-post status-publish format-standard has-post-thumbnail hentry category-fantasy category-quest category-shayari tag-contemporary-fantasy tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-fantasy-stories-online tag-featured tag-quest tag-senryu">
+	<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/27/what-child-is-this-quest/">
+	<img width="640" height="400" src="https://melindakucsera.files.wordpress.com/2016/04/heart-66881_640.jpg?w=640&amp;h=400&amp;crop=1" class="attachment-gazette-featured-content-thumbnail size-gazette-featured-content-thumbnail wp-post-image" alt="heart-66881_640" />	</a>
+
+	<header class="entry-header">
+
+		<div class="entry-meta">
+			<span class="cat-links"><a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/quest/" rel="category tag">quest</a>, <a href="https://melindakucsera.com/category/shayari/" rel="category tag">Shayari</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/27/what-child-is-this-quest/#comments">4 Comments</a></span>		</div><!-- .entry-meta -->
+
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/27/what-child-is-this-quest/" rel="bookmark">What Child is This? (Quest)</a></h1>	</header><!-- .entry-header -->
+</article><!-- #post-## -->
+
+<article id="post-39360" class="post-39360 post type-post status-publish format-standard has-post-thumbnail hentry category-fantasy category-quest category-shayari tag-contemporary-fantasy tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-featured tag-fiction tag-new-fantasy tag-quest tag-senryu">
+	<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/26/mine-to-possess-quest/">
+	<img width="654" height="400" src="https://melindakucsera.files.wordpress.com/2016/04/woman-590490-small.jpg?w=654&amp;h=400&amp;crop=1" class="attachment-gazette-featured-content-thumbnail size-gazette-featured-content-thumbnail wp-post-image" alt="woman-590490-small" />	</a>
+
+	<header class="entry-header">
+
+		<div class="entry-meta">
+			<span class="cat-links"><a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/quest/" rel="category tag">quest</a>, <a href="https://melindakucsera.com/category/shayari/" rel="category tag">Shayari</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/26/mine-to-possess-quest/#comments">2 Comments</a></span>		</div><!-- .entry-meta -->
+
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/26/mine-to-possess-quest/" rel="bookmark">Mine to Possess (Quest)</a></h1>	</header><!-- .entry-header -->
+</article><!-- #post-## -->
+
+<article id="post-39190" class="post-39190 post type-post status-publish format-standard has-post-thumbnail hentry category-fantasy category-quest category-shayari tag-contemporary-fantasy tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-featured tag-new-fantasy tag-quest tag-senryu">
+	<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/25/make-evil-a-queen-quest/">
+	<img width="640" height="401" src="https://melindakucsera.files.wordpress.com/2016/04/harp-384557_6401.jpg?w=640&amp;h=401&amp;crop=1" class="attachment-gazette-featured-content-thumbnail size-gazette-featured-content-thumbnail wp-post-image" alt="harp-384557_640" />	</a>
+
+	<header class="entry-header">
+
+		<div class="entry-meta">
+			<span class="cat-links"><a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/quest/" rel="category tag">quest</a>, <a href="https://melindakucsera.com/category/shayari/" rel="category tag">Shayari</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/25/make-evil-a-queen-quest/#comments">5 Comments</a></span>		</div><!-- .entry-meta -->
+
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/25/make-evil-a-queen-quest/" rel="bookmark">Make Evil a Queen (Quest)</a></h1>	</header><!-- .entry-header -->
+</article><!-- #post-## -->
+
+<article id="post-40809" class="post-40809 post type-post status-publish format-standard has-post-thumbnail hentry category-curse-breaker category-fantasy category-sarn category-shayari tag-contemporary-fantasy tag-curse-breaker tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-featured tag-new-fantasy">
+	<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/24/tell-me-curse-breaker/">
+	<img width="600" height="400" src="https://melindakucsera.files.wordpress.com/2016/01/runner-728219_1280small.jpg?w=600&amp;h=400&amp;crop=1" class="attachment-gazette-featured-content-thumbnail size-gazette-featured-content-thumbnail wp-post-image" alt="runner-728219_1280small" />	</a>
+
+	<header class="entry-header">
+
+		<div class="entry-meta">
+			<span class="cat-links"><a href="https://melindakucsera.com/category/curse-breaker/" rel="category tag">Curse Breaker</a>, <a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/sarn/" rel="category tag">Sarn</a>, <a href="https://melindakucsera.com/category/shayari/" rel="category tag">Shayari</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/24/tell-me-curse-breaker/#comments">3 Comments</a></span>		</div><!-- .entry-meta -->
+
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/24/tell-me-curse-breaker/" rel="bookmark">Tell me | Curse Breaker</a></h1>	</header><!-- .entry-header -->
+</article><!-- #post-## -->
+
+<article id="post-41121" class="post-41121 post type-post status-publish format-standard has-post-thumbnail hentry category-fantasy category-lord-of-the-sea tag-adenture tag-contemporary-fantasy tag-dragon tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-featured tag-lord-of-the-sea tag-new-fantasy">
+	<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/24/aerial-rescue-lord-of-the-sea/">
+	<img width="640" height="400" src="https://melindakucsera.files.wordpress.com/2016/04/ice-731329_6403.jpg?w=640&amp;h=400&amp;crop=1" class="attachment-gazette-featured-content-thumbnail size-gazette-featured-content-thumbnail wp-post-image" alt="ice-731329_640" />	</a>
+
+	<header class="entry-header">
+
+		<div class="entry-meta">
+			<span class="cat-links"><a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/lord-of-the-sea/" rel="category tag">Lord of the Sea</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/24/aerial-rescue-lord-of-the-sea/#comments">6 Comments</a></span>		</div><!-- .entry-meta -->
+
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/24/aerial-rescue-lord-of-the-sea/" rel="bookmark">Aerial Rescue | Lord of the Sea</a></h1>	</header><!-- .entry-header -->
+</article><!-- #post-## -->
+
+<article id="post-40703" class="post-40703 post type-post status-publish format-standard has-post-thumbnail hentry category-curse-breaker category-fantasy category-sarn category-shayari tag-contemporary-fantasy tag-curse-breaker tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-featured tag-new-fantasy">
+	<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/23/master-curse-breaker/">
+	<img width="650" height="399" src="https://melindakucsera.files.wordpress.com/2016/04/iphone-1223643_12801.jpg?w=650&amp;h=399&amp;crop=1" class="attachment-gazette-featured-content-thumbnail size-gazette-featured-content-thumbnail wp-post-image" alt="iphone-1223643_1280" />	</a>
+
+	<header class="entry-header">
+
+		<div class="entry-meta">
+			<span class="cat-links"><a href="https://melindakucsera.com/category/curse-breaker/" rel="category tag">Curse Breaker</a>, <a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/sarn/" rel="category tag">Sarn</a>, <a href="https://melindakucsera.com/category/shayari/" rel="category tag">Shayari</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/23/master-curse-breaker/#comments">4 Comments</a></span>		</div><!-- .entry-meta -->
+
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/23/master-curse-breaker/" rel="bookmark">Master | Curse Breaker</a></h1>	</header><!-- .entry-header -->
+</article><!-- #post-## -->
+</div><!-- #featured-content -->
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+						
+				
+<article id="post-31157" class="post-31157 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-quest category-table-of-contents tag-book tag-book-blurb tag-contemporary-fantasy tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-quest tag-summary tag-table-of-contents">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/quest/" rel="category tag">quest</a>, <a href="https://melindakucsera.com/category/table-of-contents/" rel="category tag">Table of Contents</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/25/quest-table-of-contents/#comments">36 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/25/quest-table-of-contents/">
+				<img width="600" height="406" src="https://melindakucsera.files.wordpress.com/2016/03/quest-small.jpg?w=600&amp;h=406&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="quest-small" />									<span class="sticky-post"><span class="genericon genericon-pinned"><span class="screen-reader-text">Sticky post</span></span></span>
+							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/25/quest-table-of-contents/" rel="bookmark">Quest &#8211; Table of Contents</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/25/quest-table-of-contents/" rel="bookmark"><time class="entry-date published" datetime="2016-04-25T11:07:17+00:00">April 25, 2016</time><time class="updated" datetime="2016-04-27T12:00:34+00:00">April 27, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>A last request…<br />
+An orphaned baby…<br />
+A dethroned Storm King…<br />
+A sorceress who gave up her name…<br />
+A demonic queen bent on destroying them all… <a href="https://melindakucsera.com/2016/04/25/quest-table-of-contents/" class="more-link">Continue reading <span class="screen-reader-text">Quest &#8211; Table of Contents</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-41706" class="post-41706 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-fantasy category-lord-of-the-sea tag-contemporary-fantasy tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-new-fantasy tag-table-of-contents">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/lord-of-the-sea/" rel="category tag">Lord of the Sea</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/24/lord-of-the-sea-table-of-contents/#respond">Leave a comment</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/24/lord-of-the-sea-table-of-contents/">
+				<img width="536" height="401" src="https://melindakucsera.files.wordpress.com/2016/04/lots-copy-cropped.jpg?w=536&amp;h=401&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="lots-copy-cropped" />									<span class="sticky-post"><span class="genericon genericon-pinned"><span class="screen-reader-text">Sticky post</span></span></span>
+							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/24/lord-of-the-sea-table-of-contents/" rel="bookmark">Lord of the Sea &#8211; Table of Contents</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/24/lord-of-the-sea-table-of-contents/" rel="bookmark"><time class="entry-date published updated" datetime="2016-04-24T22:56:14+00:00">April 24, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>Mankind teams up with dragons to fight a mechanized foe on the Star Sea. Let the adventure begin&#8230; <a href="https://melindakucsera.com/2016/04/24/lord-of-the-sea-table-of-contents/" class="more-link">Continue reading <span class="screen-reader-text">Lord of the Sea &#8211; Table of Contents</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-30322" class="post-30322 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-fantasy category-quest category-request category-shayari tag-book tag-contemporary-fantasy tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-request tag-table-of-contents">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/quest/" rel="category tag">quest</a>, <a href="https://melindakucsera.com/category/request/" rel="category tag">request</a>, <a href="https://melindakucsera.com/category/shayari/" rel="category tag">Shayari</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/19/request-table-of-contents/#comments">12 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/19/request-table-of-contents/">
+				<img width="600" height="400" src="https://melindakucsera.files.wordpress.com/2016/03/request-small.jpg?w=600&amp;h=400&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="request-small" />									<span class="sticky-post"><span class="genericon genericon-pinned"><span class="screen-reader-text">Sticky post</span></span></span>
+							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/19/request-table-of-contents/" rel="bookmark">(Re)Quest &#8211; Table of Contents</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/19/request-table-of-contents/" rel="bookmark"><time class="entry-date published" datetime="2016-04-19T14:49:56+00:00">April 19, 2016</time><time class="updated" datetime="2016-04-21T10:04:42+00:00">April 21, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>1) An expansion  of Quest with more of everything you love–action, drama, adventure, character moments, etc…<br />
+2) A recasting to add prose portions to the original parts of Quest, which were written strictly in sonnets. <a href="https://melindakucsera.com/2016/04/19/request-table-of-contents/" class="more-link">Continue reading <span class="screen-reader-text">(Re)Quest &#8211; Table of Contents</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-31166" class="post-31166 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-cos-book-1 category-curse-breaker category-sarn category-table-of-contents tag-adventure tag-book tag-curse-breaker tag-enchanted tag-fantasy tag-table-of-contents">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/cos-book-1/" rel="category tag">CoS Book 1</a>, <a href="https://melindakucsera.com/category/curse-breaker/" rel="category tag">Curse Breaker</a>, <a href="https://melindakucsera.com/category/sarn/" rel="category tag">Sarn</a>, <a href="https://melindakucsera.com/category/table-of-contents/" rel="category tag">Table of Contents</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/05/curse-breaker-enchanted-table-of-contents/#comments">28 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/05/curse-breaker-enchanted-table-of-contents/">
+				<img width="600" height="401" src="https://melindakucsera.files.wordpress.com/2016/03/cursebreaker-cover4-small.jpg?w=600&amp;h=401&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="cursebreaker-cover4-small" />									<span class="sticky-post"><span class="genericon genericon-pinned"><span class="screen-reader-text">Sticky post</span></span></span>
+							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/05/curse-breaker-enchanted-table-of-contents/" rel="bookmark">Curse Breaker: Enchanted &#8211; Table of Contents</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/05/curse-breaker-enchanted-table-of-contents/" rel="bookmark"><time class="entry-date published" datetime="2016-04-05T00:38:00+00:00">April 5, 2016</time><time class="updated" datetime="2016-04-06T09:09:25+00:00">April 6, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>Sarn patrols the enchanted forest with the Rangers and deals with its magical weirdness. A weirdness that just might cost his sanity as events shake the foundations of what he has always believed about the forest&#8230; <a href="https://melindakucsera.com/2016/04/05/curse-breaker-enchanted-table-of-contents/" class="more-link">Continue reading <span class="screen-reader-text">Curse Breaker: Enchanted &#8211; Table of Contents</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-30483" class="post-30483 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-aerials category-science-fiction tag-aerials tag-book tag-science-fiction tag-table-of-contents">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/aerials/" rel="category tag">Aerials</a>, <a href="https://melindakucsera.com/category/science-fiction/" rel="category tag">science fiction</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/04/aerials-table-of-contents/#respond">Leave a comment</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/04/aerials-table-of-contents/">
+				<img width="600" height="400" src="https://melindakucsera.files.wordpress.com/2016/03/aerials-cover-small.jpg?w=600&amp;h=400&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="aerials-cover-small" />									<span class="sticky-post"><span class="genericon genericon-pinned"><span class="screen-reader-text">Sticky post</span></span></span>
+							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/04/aerials-table-of-contents/" rel="bookmark">Aerials &#8211; Table of Contents</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/04/aerials-table-of-contents/" rel="bookmark"><time class="entry-date published" datetime="2016-04-04T00:50:20+00:00">April 4, 2016</time><time class="updated" datetime="2016-04-20T09:21:20+00:00">April 20, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>A fictional tale involving aliens, blogs, some scientists and a dash of poetry. <a href="https://melindakucsera.com/2016/04/04/aerials-table-of-contents/" class="more-link">Continue reading <span class="screen-reader-text">Aerials &#8211; Table of Contents</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-22281" class="post-22281 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-uncategorized tag-angels tag-books tag-ebooks tag-epic tag-fantasy tag-holiday-2 tag-inspirational tag-kindle tag-novella tag-poetry tag-religious tag-sonnet tag-stars">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/01/22/when-stars-and-angels-sing/#comments">102 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/01/22/when-stars-and-angels-sing/">
+				<img width="600" height="400" src="https://melindakucsera.files.wordpress.com/2016/01/stars-smaller.jpg?w=600&amp;h=400&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="stars-smaller" />									<span class="sticky-post"><span class="genericon genericon-pinned"><span class="screen-reader-text">Sticky post</span></span></span>
+							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/01/22/when-stars-and-angels-sing/" rel="bookmark">When Stars and Angels Sing</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/01/22/when-stars-and-angels-sing/" rel="bookmark"><time class="entry-date published" datetime="2016-01-22T20:07:38+00:00">January 22, 2016</time><time class="updated" datetime="2016-03-31T15:39:13+00:00">March 31, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>When stars and angels sing…<br />
+You know you’re in for quite the adventure&#8230;  <a href="https://melindakucsera.com/2016/01/22/when-stars-and-angels-sing/" class="more-link">Continue reading <span class="screen-reader-text">When Stars and Angels Sing</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-41712" class="post-41712 post type-post status-publish format-standard has-post-thumbnail hentry category-fantasy category-quest category-shayari tag-contemporary-fantasy tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-fantasy-stories-online tag-featured tag-quest tag-senryu">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/quest/" rel="category tag">quest</a>, <a href="https://melindakucsera.com/category/shayari/" rel="category tag">Shayari</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/27/what-child-is-this-quest/#comments">4 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/27/what-child-is-this-quest/">
+				<img width="640" height="400" src="https://melindakucsera.files.wordpress.com/2016/04/heart-66881_640.jpg?w=640&amp;h=400&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="heart-66881_640" />							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/27/what-child-is-this-quest/" rel="bookmark">What Child is This? (Quest)</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/27/what-child-is-this-quest/" rel="bookmark"><time class="entry-date published" datetime="2016-04-27T09:57:08+00:00">April 27, 2016</time><time class="updated" datetime="2016-04-27T09:55:49+00:00">April 27, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>What Child is This who heals with a touch &amp; unchains hearts with love? Find out in today&#8217;s installment of Quest.  <a href="https://melindakucsera.com/2016/04/27/what-child-is-this-quest/" class="more-link">Continue reading <span class="screen-reader-text">What Child is This? (Quest)</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-40937" class="post-40937 post type-post status-publish format-standard has-post-thumbnail hentry category-emotional-abcs category-poem category-poetry tag-a2zblogchallenge tag-haiku tag-nanopomo tag-nature tag-poem tag-poetry tag-senryu tag-sonnet tag-wander">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/emotional-abcs/" rel="category tag">Emotional ABCs</a>, <a href="https://melindakucsera.com/category/poem/" rel="category tag">poem</a>, <a href="https://melindakucsera.com/category/poetry/" rel="category tag">poetry</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/27/wander-emotional-abcs/#comments">5 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/27/wander-emotional-abcs/">
+				<img width="598" height="400" src="https://melindakucsera.files.wordpress.com/2016/04/photomontage-1319176_640.jpg?w=598&amp;h=400&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="photomontage-1319176_640" />							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/27/wander-emotional-abcs/" rel="bookmark">Wander: Emotional ABCs</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/27/wander-emotional-abcs/" rel="bookmark"><time class="entry-date published" datetime="2016-04-27T08:45:00+00:00">April 27, 2016</time><time class="updated" datetime="2016-04-27T08:42:30+00:00">April 27, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>Get schooled in emotions this month. Today&#8217;s lesson is poetic slideshow that wanders. <a href="https://melindakucsera.com/2016/04/27/wander-emotional-abcs/" class="more-link">Continue reading <span class="screen-reader-text">Wander: Emotional ABCs</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-39360" class="post-39360 post type-post status-publish format-standard has-post-thumbnail hentry category-fantasy category-quest category-shayari tag-contemporary-fantasy tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-featured tag-fiction tag-new-fantasy tag-quest tag-senryu">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/quest/" rel="category tag">quest</a>, <a href="https://melindakucsera.com/category/shayari/" rel="category tag">Shayari</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/26/mine-to-possess-quest/#comments">2 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/26/mine-to-possess-quest/">
+				<img width="654" height="400" src="https://melindakucsera.files.wordpress.com/2016/04/woman-590490-small.jpg?w=654&amp;h=400&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="woman-590490-small" />							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/26/mine-to-possess-quest/" rel="bookmark">Mine to Possess (Quest)</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/26/mine-to-possess-quest/" rel="bookmark"><time class="entry-date published" datetime="2016-04-26T14:27:00+00:00">April 26, 2016</time><time class="updated" datetime="2016-04-26T15:11:49+00:00">April 26, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>Help comes with a price, what will aid from the dream goddess cost? And what is she hiding? <a href="https://melindakucsera.com/2016/04/26/mine-to-possess-quest/" class="more-link">Continue reading <span class="screen-reader-text">Mine to Possess (Quest)</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-40352" class="post-40352 post type-post status-publish format-standard has-post-thumbnail hentry category-emotional-abcs category-poem category-poetry tag-a2zblogchallenge tag-crime-fighter tag-nanopomo tag-poem tag-poetry tag-public-defender tag-senryu tag-sonnet tag-superhero tag-vigilante">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/emotional-abcs/" rel="category tag">Emotional ABCs</a>, <a href="https://melindakucsera.com/category/poem/" rel="category tag">poem</a>, <a href="https://melindakucsera.com/category/poetry/" rel="category tag">poetry</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/26/vigilante-emotional-abcs/#comments">11 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/26/vigilante-emotional-abcs/">
+				<img width="617" height="402" src="https://melindakucsera.files.wordpress.com/2016/04/carnival-411494_1280.jpg?w=617&amp;h=402&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="carnival-411494_1280" />							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/26/vigilante-emotional-abcs/" rel="bookmark">Vigilante: Emotional ABCs</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/26/vigilante-emotional-abcs/" rel="bookmark"><time class="entry-date published" datetime="2016-04-26T11:29:21+00:00">April 26, 2016</time><time class="updated" datetime="2016-04-26T11:27:58+00:00">April 26, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>Get schooled in emotions this month.Tonight&#8217;s lesson on vigilantes will be taught by Violent Velvet, Valencia&#8217;s Voluptuous Vigilante of the year and all-star vixen. <a href="https://melindakucsera.com/2016/04/26/vigilante-emotional-abcs/" class="more-link">Continue reading <span class="screen-reader-text">Vigilante: Emotional ABCs</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-39190" class="post-39190 post type-post status-publish format-standard has-post-thumbnail hentry category-fantasy category-quest category-shayari tag-contemporary-fantasy tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-featured tag-new-fantasy tag-quest tag-senryu">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/quest/" rel="category tag">quest</a>, <a href="https://melindakucsera.com/category/shayari/" rel="category tag">Shayari</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/25/make-evil-a-queen-quest/#comments">5 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/25/make-evil-a-queen-quest/">
+				<img width="640" height="401" src="https://melindakucsera.files.wordpress.com/2016/04/harp-384557_6401.jpg?w=640&amp;h=401&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="harp-384557_640" />							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/25/make-evil-a-queen-quest/" rel="bookmark">Make Evil a Queen (Quest)</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/25/make-evil-a-queen-quest/" rel="bookmark"><time class="entry-date published" datetime="2016-04-25T20:28:33+00:00">April 25, 2016</time><time class="updated" datetime="2016-04-26T09:18:03+00:00">April 26, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>Meet Prince Death&#8217;s newest plaything &#8212; the Undeem Queen &#8212; witness her making. See what Irene was sent back in time to discover.  <a href="https://melindakucsera.com/2016/04/25/make-evil-a-queen-quest/" class="more-link">Continue reading <span class="screen-reader-text">Make Evil a Queen (Quest)</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-40316" class="post-40316 post type-post status-publish format-standard has-post-thumbnail hentry category-emotional-abcs category-poem category-poetry tag-a2zblogchallenge tag-love tag-nanopomo tag-one-world tag-peace tag-poem tag-poetry tag-senryu tag-sonnet tag-unity">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/emotional-abcs/" rel="category tag">Emotional ABCs</a>, <a href="https://melindakucsera.com/category/poem/" rel="category tag">poem</a>, <a href="https://melindakucsera.com/category/poetry/" rel="category tag">poetry</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/25/unity-emotional-abcs/#comments">16 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/25/unity-emotional-abcs/">
+				<img width="600" height="400" src="https://melindakucsera.files.wordpress.com/2016/04/circle-1300241_1280.jpg?w=600&amp;h=400&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="circle-1300241_1280" />							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/25/unity-emotional-abcs/" rel="bookmark">Unity: Emotional ABCs</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/25/unity-emotional-abcs/" rel="bookmark"><time class="entry-date published" datetime="2016-04-25T08:35:00+00:00">April 25, 2016</time><time class="updated" datetime="2016-04-25T08:33:11+00:00">April 25, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>Get schooled in emotions this month. Today&#8217;s lesson is unity, &#8217;cause we&#8217;re all citizens of earth. <a href="https://melindakucsera.com/2016/04/25/unity-emotional-abcs/" class="more-link">Continue reading <span class="screen-reader-text">Unity: Emotional ABCs</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-40809" class="post-40809 post type-post status-publish format-standard has-post-thumbnail hentry category-curse-breaker category-fantasy category-sarn category-shayari tag-contemporary-fantasy tag-curse-breaker tag-epic-fantasy tag-fantasy tag-fantasy-books tag-fantasy-fiction tag-fantasy-fiction-novels tag-fantasy-fiction-online tag-fantasy-fiction-stories tag-featured tag-new-fantasy">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/curse-breaker/" rel="category tag">Curse Breaker</a>, <a href="https://melindakucsera.com/category/fantasy/" rel="category tag">Fantasy</a>, <a href="https://melindakucsera.com/category/sarn/" rel="category tag">Sarn</a>, <a href="https://melindakucsera.com/category/shayari/" rel="category tag">Shayari</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/24/tell-me-curse-breaker/#comments">3 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/24/tell-me-curse-breaker/">
+				<img width="600" height="400" src="https://melindakucsera.files.wordpress.com/2016/01/runner-728219_1280small.jpg?w=600&amp;h=400&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="runner-728219_1280small" />							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/24/tell-me-curse-breaker/" rel="bookmark">Tell me | Curse Breaker</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/24/tell-me-curse-breaker/" rel="bookmark"><time class="entry-date published" datetime="2016-04-24T11:31:30+00:00">April 24, 2016</time><time class="updated" datetime="2016-04-24T11:29:50+00:00">April 24, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>A blindfolded Sarn struggles to keep his magic under control. Something&#8217;s got his master on edge, but what? <a href="https://melindakucsera.com/2016/04/24/tell-me-curse-breaker/" class="more-link">Continue reading <span class="screen-reader-text">Tell me | Curse Breaker</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+				
+<article id="post-39890" class="post-39890 post type-post status-publish format-standard has-post-thumbnail hentry category-poem category-poetry tag-adronitis tag-nanopomo tag-poem tag-poetry tag-relationships tag-senryu tag-story-in-a-poem tag-story-in-senryu">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://melindakucsera.com/category/poem/" rel="category tag">poem</a>, <a href="https://melindakucsera.com/category/poetry/" rel="category tag">poetry</a></span><span class="comments-link"><a href="https://melindakucsera.com/2016/04/24/adronitis/#comments">14 Comments</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://melindakucsera.com/2016/04/24/adronitis/">
+				<img width="600" height="400" src="https://melindakucsera.files.wordpress.com/2016/04/tents-801926_640.jpg?w=600&amp;h=400&amp;crop=1" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="tents-801926_640" />							</a>
+		
+		<h1 class="entry-title"><a href="https://melindakucsera.com/2016/04/24/adronitis/" rel="bookmark">Adronitis</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://melindakucsera.com/2016/04/24/adronitis/" rel="bookmark"><time class="entry-date published" datetime="2016-04-24T09:14:00+00:00">April 24, 2016</time><time class="updated" datetime="2016-04-24T09:12:22+00:00">April 24, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://melindakucsera.com/author/mkucsera/">Melinda Kucsera</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>Adronitis &#8211; a story in a poem about the beginning of a relationship. Come on over to my yert for a read. <a href="https://melindakucsera.com/2016/04/24/adronitis/" class="more-link">Continue reading <span class="screen-reader-text">Adronitis</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+			
+			
+	<nav class="navigation posts-navigation" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://melindakucsera.com/page/2/" >Older posts</a></div></div>
+	</nav>
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	
+<div id="tertiary" class="footer-widget" role="complementary">
+	<div class="footer-widget-inner">
+		<aside id="facebook-likebox-7" class="widget widget_facebook_likebox"><h2 class="widget-title"><a href="https://www.facebook.com/inmediasresbymelindakucsera/">Let&#8217;s be Friends</a></h2>		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/inmediasresbymelindakucsera/" data-width="340"  data-height="130" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/inmediasresbymelindakucsera/"><a href="https://www.facebook.com/inmediasresbymelindakucsera/">Let&#8217;s be Friends</a></blockquote></div>
+		</div>
+		<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+		</aside><aside id="blog_subscription-9" class="widget widget_blog_subscription"><h2 class="widget-title"><label for="subscribe-field">You&#039;re in the Know</label></h2>
+<p>You are following this blog (<a href="http://wordpress.com/following/edit/">manage</a>).</p>
+</aside><aside id="follow_button_widget-9" class="widget widget_follow_button_widget">
+		<a class="wordpress-follow-button" href="https://melindakucsera.com" data-blog="https://melindakucsera.com" data-lang="en" data-show-blog-name="false">Follow in medias res by Melinda Kucsera on WordPress.com</a>
+		<script type="text/javascript">(function(d){var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');p.type = 'text/javascript';p.async = true;p.src = '//widgets.wp.com/platform.js';f.parentNode.insertBefore(p,f);}(document));</script>
+
+		</aside><aside id="wpcom_social_media_icons_widget-13" class="widget widget_wpcom_social_media_icons_widget"><h2 class="widget-title">Let&#8217;s Socialize</h2><ul><li><a title="View melinda.kucsera&#8217;s profile on Facebook" href="https://www.facebook.com/melinda.kucsera/" class="genericon genericon-facebook" target="_blank"><span class="screen-reader-text">View melinda.kucsera&#8217;s profile on Facebook</span></a></li><li><a title="View melindakucsera&#8217;s profile on Twitter" href="https://twitter.com/melindakucsera/" class="genericon genericon-twitter" target="_blank"><span class="screen-reader-text">View melindakucsera&#8217;s profile on Twitter</span></a></li><li><a title="View mkucsera&#8217;s profile on Instagram" href="https://instagram.com/mkucsera/" class="genericon genericon-instagram" target="_blank"><span class="screen-reader-text">View mkucsera&#8217;s profile on Instagram</span></a></li><li><a title="View melindakucsera&#8217;s profile on LinkedIn" href="https://www.linkedin.com/in/melindakucsera/" class="genericon genericon-linkedin" target="_blank"><span class="screen-reader-text">View melindakucsera&#8217;s profile on LinkedIn</span></a></li><li><a title="View mkucsera28&#8217;s profile on YouTube" href="https://www.youtube.com/user/mkucsera28/" class="genericon genericon-youtube" target="_blank"><span class="screen-reader-text">View mkucsera28&#8217;s profile on YouTube</span></a></li><li><a title="View MelindaKucsera&#8217;s profile on Google+" href="https://plus.google.com/u/0/+MelindaKucsera/" class="genericon genericon-googleplus" target="_blank"><span class="screen-reader-text">View MelindaKucsera&#8217;s profile on Google+</span></a></li></ul></aside>	</div><!-- .wrapper -->
+</div><!-- #tertiary -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-footer-inner">
+						<div class="footer-text">
+				© Melinda Kucsera and in medias res by Melinda Kucsera, 2015-2016. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Melinda Kucsera and in medias res by Melinda Kucsera with appropriate and specific direction to the original content.			</div><!-- .footer-text -->
+			
+			
+			<div class="site-info">
+				<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com.</a>
+				<span class="genericon genericon-wordpress sep"></span>
+				<a href="https://wordpress.com/themes/gazette/" title="Learn more about this theme">The Gazette Theme</a>.			</div><!-- .site-info -->
+		</div><!-- .site-footer-inner -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+		<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = {"settings":{"id":"main","ajaxurl":"https:\/\/melindakucsera.com\/?infinity=scrolling","type":"click","wrapper":false,"wrapper_class":"infinite-wrap","footer":"main","click_handle":"1","text":"Older posts","totop":"Scroll back to top","currentday":"24.04.16","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":0,"history":{"host":"melindakucsera.com","path":"\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","static":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"posts_per_page":10,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"last_post_date":"2016-04-24 09:14:00","stats":"blog=98303655&v=wpcom&tz=-4&user=1&user_id=93468838&subd=melindakucsera&x_pagetype=infinite-click"}};
+		//]]>
+		</script>
+		<!-- wpcom_wp_footer -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery(document).ready( function($) {
+			function doFollowingHover() {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				$('#wp-admin-bar-follow > a').bind( 'mouseover.unfollow', function() {
+
+					$(this).html( "Unfollow" ).parent( 'li' ).addClass( 'unfollow' );
+				});
+				$('#wp-admin-bar-follow > a').bind( 'mouseout.unfollow', function() {
+					$(this).html( "Following" ).parent( 'li' ).removeClass( 'unfollow' );
+				});
+			}
+							doFollowingHover();
+			
+			$('#wp-admin-bar-follow > a').click( function( e ) {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				e.preventDefault();
+
+				var link = $( this ), li = $( '#wp-admin-bar-follow' ), timeout = 0;
+
+				if ( li.hasClass( 'subscribed' ) ) {
+					li.removeClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Follow" );
+
+					$('body').append( $( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble' );
+
+					var action = 'ab_unsubscribe_from_blog';
+				} else {
+					li.addClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Following" );
+
+						var left = 131 - link.width();
+						li.append( $( 'div.wpcom-bubble' ).css( { left: '-' + left + 'px' } ) );
+						$( 'div.bubble-txt', 'div.wpcom-bubble' ).html( "New posts from this blog will now appear in <a target=\"_blank\" href=\"http:\/\/wordpress.com\/\">your reader<\/a>. You can manage email alerts from your <a target=\"_blank\" href=\"http:\/\/wordpress.com\/following\/edit\/\">subscriptions page<\/a>." );
+
+						$( 'div.wpcom-bubble.action-bubble' ).addClass( 'fadein' );
+
+						setTimeout( function() {
+							$('body').on( 'click.bubble touchstart.bubble', function(e) {
+								if ( !$(e.target).hasClass('wpcom-bubble') && !$(e.target).parents( 'div.wpcom-bubble' ).length )
+									hideBubble();
+							});
+							setTimeout( hideBubble, 15000 );
+						}, 500 );
+
+					var action = 'ab_subscribe_to_blog';
+					$('#wp-admin-bar-follow > a').bind( 'mouseout.shift', function() {
+						doFollowingHover();
+						$(this).unbind( '.shift' );
+					});
+				}
+
+				var nonce = link.attr( 'href' ).split( '_wpnonce=' );
+				nonce = nonce[1];
+
+				$.post( "https:\/\/melindakucsera.com\/wp-admin\/admin-ajax.php", {
+					'action': action,
+					'_wpnonce': nonce,
+					'source': 'admin_bar',
+					'blog_id': 98303655				});
+			});
+		});
+	/* ]]> */
+	</script>
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201617y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":"8d25979e21d91ab45f880a2aeb6c5688"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<div id="report-form-window" style="display:none;"></div><script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/melindakucsera.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/melindakucsera.wordpress.com\/wp-login.php?action=logout&_wpnonce=66659ee1d2","homeURL":"https:\/\/melindakucsera.com\/","postID":"31157","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"1","userIsLoggedIn":"1","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1424115551j'></script>
+
+	<div id="carousel-reblog-box">
+		<form action="" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+							<option value="98303655">in medias res by Melinda Kucsera</option>
+							<option value="110130760">questmk</option>
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="98303655" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://melindakucsera.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="in medias res by Melinda Kucsera" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="be712dd29a" /><input type="hidden" name="_wp_http_referer" value="/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/_static/??/wp-content/mu-plugins/widgets/facebook-likebox/style.css,/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1458924076j' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2' href='https://s1.wp.com/wp-content/mu-plugins/tiled-gallery/tiled-gallery.css?m=1443731146h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackSlideshowSettings = {"spinner":"https:\/\/s1.wp.com\/wp-content\/mu-plugins\/shortcodes\/img\/slideshow-loader.gif","blog_id":"98303655","blog_subdomain":"melindakucsera","user_id":"93468838"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetpackEmojiSettings = {"base_url":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/emoji\/twemoji\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpNotesArgs = {"cacheBuster":"20160329","iframeUrl":"https:\/\/widgets.wp.com\/notificationsbeta\/","iframeAppend":"2","iframeScroll":"no","wide":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcom_tos_report_form = {"ajaxurl":"\/wp-admin\/admin-ajax.php","isLoggedoutUser":"","post_ID":null,"current_url":"https:\/\/melindakucsera.com","report_this_content":"Report this content"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"98303655","siteName":"in medias res by Melinda Kucsera","siteURL":"https:\/\/melindakucsera.com","icon":"<img alt='' src='https:\/\/s1.wp.com\/i\/void.gif' class='avatar avatar-36' height='36' width='36' \/>","canManageOptions":"1","canCustomizeSite":"1","isFollowing":"1","themeSlug":"pub\/gazette","themeURL":"https:\/\/wordpress.com\/themes\/gazette\/","xhrURL":"https:\/\/melindakucsera.com\/wp-admin\/admin-ajax.php","nonce":"4ffa5d4822","isSingular":"","isFolded":"","customizeLink":"https:\/\/melindakucsera.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fmelindakucsera.wordpress.com%2F","i18n":{"view":"View Site","follow":"Follow","following":"Following","edit":"Edit","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Gazette","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage Sites I Follow","viewReader":"View Site in the Reader"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"1","lang":"en","ajaxurl":"https:\/\/melindakucsera.com\/wp-admin\/admin-ajax.php","nonce":"cdb2fe1dc5","display_exif":"1","display_geo":"1","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"1","require_name_email":"0","login_url":"https:\/\/melindakucsera.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fmelindakucsera.com%2F2016%2F04%2F24%2Fadronitis%2F","local_comments_commenting_as":"<p id=\"jp-carousel-commenting-as\">Commenting as Melinda Kucsera<\/p>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=98303655&v=wpcom&tz=-4&user=1&user_id=93468838&subd=melindakucsera","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyNk91ygyAQhV+ohCbTSduLTp8FcY0osJRdNOnTFzPR5scx3sjCnrML+CH7IDR6Bs+yIVlCZzSE46ahF5lTxmubSqAhx7XRbYHHKRhFo98lEWw6GE/SmjabfhIkqJUvLcS5iqp0xotCxU0eF6oZXxlv+DQFC1qqMbLGS4cmbyGeNvqkLaw2kTU5qrEX0/qCdzpEzmt04v9Qdx6uweUGIRXyoH6BGYZmXnXmoNjgwwXM6ytQnCKUo2ydqwZVwsodEaio63XagMS0smxrgrDGt6JCnUhUZgkgcNgYyf3N+FTfAAelW7FOfaO65jL5fFmkMcI1mNeKQg0vwMMcuDntErHS9RI2Hhku35x2Dr3odk/1E1zLYkYSEUKGN192dPfzJZr1gOJA8xTNnZ/6CosG9AN+Y50uPyGUigj4bDjPQwR6oOWquVYRE4Gd/uO4kD3f7mv7tt++fny+73fNH0M8xQU='></script>
+<script type='text/javascript' src='https://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVy7EOQEAMANAfUnViYBDfgmsupepyivh7VpMY3/DwjDCuaqSGyw5R9sC6oZ1sRgkG6cd54OQhMqHSQYnUs4Z82jL8c+P3YyEPoRehdL31rG5pXVXUTVO70k03DU5D1g=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">
+			jQuery.extend( infiniteScroll.settings.scripts, ["jquery","jquery-core","jquery-migrate","follow_js","postmessage","mobile-useragent-info","jquery_inview","jetpack_resize","spin","jquery.spin","grofiles-cards","wpgroho","jquery.autoresize","highlander-comments","devicepx","thickbox","jetpack_likes_queuehandler","admin-bar","the-neverending-homepage","jquery-cycle","jetpack-slideshow","wpcom-admin-bar","gazette-navigation","gazette-featured-content","gazette-header","gazette-search","gazette-posts","gazette-skip-link-focus-fix","twemoji","jetpack-emoji","jetpack-emoji-init","underscore","backbone","mustache","notes-rest-common","notes-admin-bar-rest","tos-report-form","wpcom-actionbar-bar","swfobject","videopress","jetpack-carousel","twitter-widgets","twitter-widgets-infinity","twitter-widgets-pending","tiled-gallery"] );
+			jQuery.extend( infiniteScroll.settings.styles, ["wpcom-smileys","follow_css","hover-bubbles","dashicons","thickbox","jetpack_likes","the-neverending-homepage","jetpack-slideshow","wpcom-admin-bar","noticons","wpcom-core-compat-playlist-styles","mp6hacks","wpcom-bbpress2-staff-css","genericons","gazette-style","gazette-wpcom","jetpack_social_media_icons_widget","jetpack-emoji-css","notes-admin-bar-rest","geo-location-flair","reblogging","tos-report-form","a8c-global-print","wpcom-admin-bar-mobile-css","wpcom-actionbar-bar","sharedaddy","social-logos","h4-global","widget-grid-and-list","gazette-lora","gazette-lato-inconsolata","highlander-comments","highlander-comments-ie7","jetpack_facebook_likebox","jetpack-carousel","tiled-gallery","jetpack-carousel-ie8fix"] );
+		</script>		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?52" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['identifyUser', 93468838, 'mkucsera']);
+_tkq.push(['storeContext', {'blog_id':'98303655','blog_tz':'-4','user_lang':'en','blog_lang':'en'}]);
+_stq.push(['view', {'blog':'98303655','v':'wpcom','tz':'-4','user':'1','user_id':'93468838','subd':'melindakucsera'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1zNDZ8S252Wis9XUQyb3YrcUVIU2R0VH5TdXIyfFgyfjVBN0lIeEpROGxdTnl0NVVYdjNTZURNdE02OUdKNkUyY0E5bXUzSWdEL3dpVCt8Py5wWUJ6elA3Smh2dVVFMFBEXyU9bzF6bz1HJWZdQV96TThfSk90eUVvNFIma0FKa3VnczJrU3xFP3d5SElLUVtEWHNpdGJ3R2xdb3hQJS1PfkF4eUNZVmJxfGM1d100Py1yS0lkWXBnRksrQ3o1bi1bYmEtNldZdWYzdTVwS0UlZS5qNVEya2lqd1RRLFN5K2ZSZ0tyTVlmMjJdTEhTLy9oU0xOL3AuUzdwenJUKy9FdldLdVJvT3JFbF9yQmxCMUE3cEdaVTBaMHJzTENvP1tdci5RTw=='}]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+	<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+			request = (function(){ var xhr = new XMLHttpRequest(); return ('withCredentials' in xhr); })();
+
+			b[c] = b[c].replace( rcs, ' ' );
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs ltr">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+						<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+			
+		<li id="wp-admin-bar-blog" class="menupop my-sites"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/stats/melindakucsera.com">My Sites</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-blog-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-blog-info" class="current-site">		<div class="ab-item ab-empty-item" ><div class="ab-site-icon"></div><span class="ab-site-title">in medias res by Mel&hellip;</span><span class="ab-site-description">melindakucsera.com</span></div>		</li>
+		<li id="wp-admin-bar-switch-site" class="menupop"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/sites">Switch Site</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-my-sites" class="ab-sub-secondary ab-submenu">
+			
+		<li id="wp-admin-bar-blog-98303655" class="menupop"><a class="ab-item"  aria-haspopup="true" href="https://melindakucsera.com/"><img src="https://s2.wp.com/i/logo/w-32.png" alt="Blavatar" width="16" height="16" />in medias res by Melinda Kucsera</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-blog-98303655-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-blog-98303655-d"><a class="ab-item"  href="https://melindakucsera.wordpress.com/wp-admin/">WP Admin</a>		</li>
+		<li id="wp-admin-bar-blog-98303655-n"><a class="ab-item"  href="https://wordpress.com/post/melindakucsera.com">New Post</a>		</li>
+		<li id="wp-admin-bar-blog-98303655-s"><a class="ab-item"  href="https://wordpress.com/stats/melindakucsera.com">Stats</a>		</li>
+		<li id="wp-admin-bar-blog-98303655-c"><a class="ab-item"  href="https://melindakucsera.wordpress.com/wp-admin/edit-comments.php">Manage Comments</a>		</li>
+		<li id="wp-admin-bar-blog-98303655-v"><a class="ab-item"  href="https://melindakucsera.com/">Read Blog</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-blog-110130760" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://questmk.wordpress.com/"><img src="https://s2.wp.com/i/logo/w-32.png" alt="Blavatar" width="16" height="16" />questmk</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-blog-110130760-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-blog-110130760-d"><a class="ab-item"  href="https://questmk.wordpress.com/wp-admin/">WP Admin</a>		</li>
+		<li id="wp-admin-bar-blog-110130760-n"><a class="ab-item"  href="https://wordpress.com/post/questmk.wordpress.com">New Post</a>		</li>
+		<li id="wp-admin-bar-blog-110130760-s"><a class="ab-item"  href="https://wordpress.com/stats/questmk.wordpress.com">Stats</a>		</li>
+		<li id="wp-admin-bar-blog-110130760-c"><a class="ab-item"  href="https://questmk.wordpress.com/wp-admin/edit-comments.php">Manage Comments</a>		</li>
+		<li id="wp-admin-bar-blog-110130760-v"><a class="ab-item"  href="http://questmk.wordpress.com/">Read Blog</a>		</li>		</ul>
+	</div>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-view-site" class="mb-icon"><a class="ab-item"  href="https://melindakucsera.com/">View Site</a>		</li>
+		<li id="wp-admin-bar-dashboard-top" class="mb-icon"><a class="ab-item"  href="https://melindakucsera.wordpress.com/wp-admin/">WP Admin</a>		</li>
+		<li id="wp-admin-bar-blog-stats" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/stats/melindakucsera.com">Stats </a>		</li>
+		<li id="wp-admin-bar-plan" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/plans/melindakucsera.com" class="ab-item primary mb-icon" id="wp-admin-bar-plan">Plan</a><a href="https://wordpress.com/plans/melindakucsera.com" class="secondary" id="wp-admin-bar-plan-badge">Free</a></div>		</li>
+		<li id="wp-admin-bar-comments" class="mb-icon"><a class="ab-item"  href="https://melindakucsera.wordpress.com/wp-admin/edit-comments.php">Comments <span class="comment-moderation-count">61</span></a>		</li>		</ul>
+			<ul id="wp-admin-bar-publish" class="ab-submenu">
+			
+		<li id="wp-admin-bar-publish-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Publish</div>		</li>
+		<li id="wp-admin-bar-new-post" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/posts/melindakucsera.com" class="ab-item primary mb-icon" id="wp-admin-bar-edit-post">Blog Posts</a><a href="https://wordpress.com/post/melindakucsera.com" class="secondary" id="wp-admin-bar-new-post">Add</a></div>		</li>
+		<li id="wp-admin-bar-new-page" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/pages/melindakucsera.com" class="ab-item primary mb-icon" id="wp-admin-bar-edit-page">Pages</a><a href="https://wordpress.com/page/melindakucsera.com" class="secondary" id="wp-admin-bar-new-page">Add</a></div>		</li>		</ul>
+			<ul id="wp-admin-bar-look-and-feel" class="ab-submenu">
+			
+		<li id="wp-admin-bar-look-and-feel-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Personalize</div>		</li>
+		<li id="wp-admin-bar-themes" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/design/melindakucsera.com">Themes</a>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize mb-icon"><a class="ab-item"  href="https://melindakucsera.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fmelindakucsera.wordpress.com%2F">Customize</a>		</li>
+		<li id="wp-admin-bar-menus" class="mb-icon"><a class="ab-item"  href="https://melindakucsera.wordpress.com/wp-admin/nav-menus.php">Menus</a>		</li>		</ul>
+			<ul id="wp-admin-bar-configuration" class="ab-submenu">
+			
+		<li id="wp-admin-bar-configuration-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Configure</div>		</li>
+		<li id="wp-admin-bar-sharing" class="mb-icon"><a class="ab-item"  href="https://melindakucsera.wordpress.com/wp-admin/options-general.php?page=sharing">Sharing</a>		</li>
+		<li id="wp-admin-bar-users-toolbar" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/people/team/melindakucsera.com" class="ab-item primary mb-icon" id="wp-admin-bar-people">People</a><a href="https://melindakucsera.wordpress.com/wp-admin/users.php?page=wpcom-invite-users" class="secondary" id="wp-admin-bar-people-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-domains" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/domains/melindakucsera.com" class="ab-item primary mb-icon" id="wp-admin-bar-domains">Domains</a><a href="https://wordpress.com/domains/add/melindakucsera.com" class="secondary" id="wp-admin-bar-domains-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-blog-settings" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/settings/general/melindakucsera.com">Settings</a>		</li>		</ul>
+			<ul id="wp-admin-bar-blog-secondary" class="ab-sub-secondary ab-submenu">
+			
+		<li id="wp-admin-bar-wpcom_report_url"><a class="ab-item"  href="https://en.wordpress.com/complaints/">Report this content</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-jumptotop-button-menu"><a class="ab-item"  href="#"><div id="jumptotop"><span class="noticon noticon-top"></span></div></a>		</li>
+		<li id="wp-admin-bar-newdash" class="menupop"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/">Reader</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-newdash-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-streams-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Streams</div>		</li>
+		<li id="wp-admin-bar-following" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/" class="ab-item primary mb-icon" id="wp-admin-bar-followed-sites">Followed Sites</a><a href="https://wordpress.com/following/edit" class="secondary">Manage</a></div>		</li>
+		<li id="wp-admin-bar-discover-discover" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/discover">Discover</a>		</li>
+		<li id="wp-admin-bar-discover-recommended-blogs" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/recommendations">Recommendations</a>		</li>
+		<li id="wp-admin-bar-my-activity-my-likes" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/activities/likes">My Likes</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-stats"><a class="ab-item"  href="https://wordpress.com/stats/melindakucsera.com"><div><script type='text/javascript'>var src;if(typeof(window.devicePixelRatio)=='undefined'||window.devicePixelRatio<2){src='/wp-includes/charts/admin-bar-hours-scale.php';}else{src='/wp-includes/charts/admin-bar-hours-scale-2x.php';}document.write('<img style=\'vertical-align: baseline\' src=\''+src+'\' alt=\'Stats\' title=\'Showing site views per hour for the last 48 hours. Click for full Site Stats.\' />');</script></div></a>		</li>		</ul>
+			<ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+			
+		<li id="wp-admin-bar-notes" class="menupop">		<div class="ab-item ab-empty-item" ><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-unread"><span class="noticon noticon-like"></span></span></div><div id="wpnt-notes-panel2" style="display:none" lang="en" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header"></span><span class="wpnt-notes-panel-link"></span></div></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/me/"><img alt='' src='https://2.gravatar.com/avatar/8d25979e21d91ab45f880a2aeb6c5688?s=32&#038;d=mm&#038;r=G' class='avatar avatar-32' height='32' width='32' /><span class="ab-text">Me</span></a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-user-actions" class="ab-submenu">
+			
+		<li id="wp-admin-bar-user-info" class="user-info user-info-item">		<div class="ab-item ab-empty-item" tabindex="-1"><img alt='' src='https://2.gravatar.com/avatar/8d25979e21d91ab45f880a2aeb6c5688?s=128&#038;d=mm&#038;r=G' class='avatar avatar-128' height='128' width='128' /><span class="display-name">Melinda Kucsera</span><span class="username"><a class="at-username" href="http://gravatar.com/mkucsera">mkucsera</a>&nbsp;&middot;&nbsp;<a href="https://melindakucsera.wordpress.com/wp-login.php?action=logout&amp;redirect_to=http%3A%2F%2Fmelindakucsera.com%2F&amp;_wpnonce=66659ee1d2">Sign Out</a></span></div>		</li>
+		<li id="wp-admin-bar-profile-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Profile</div>		</li>
+		<li id="wp-admin-bar-my-profile" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me">My Profile</a>		</li>
+		<li id="wp-admin-bar-account-settings" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/account">Account Settings</a>		</li>
+		<li id="wp-admin-bar-billing" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/billing">Billing History</a>		</li>
+		<li id="wp-admin-bar-security" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/security">Security</a>		</li>
+		<li id="wp-admin-bar-notifications" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/notifications">Notifications</a>		</li>
+		<li id="wp-admin-bar-special-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Special</div>		</li>
+		<li id="wp-admin-bar-get-apps" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/get-apps">Get Apps</a>		</li>
+		<li id="wp-admin-bar-next-steps" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/next">Next Steps</a>		</li>
+		<li id="wp-admin-bar-help" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/help">Help</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-ab-new-post"><a class="ab-item"  href="https://wordpress.com/post/melindakucsera.com"></a>		</li>		</ul>
+				</div>
+							<a class="screen-reader-shortcut" href="https://melindakucsera.wordpress.com/wp-login.php?action=logout&#038;_wpnonce=66659ee1d2">Log Out</a>
+					</div>
+
+	
+<script type="text/javascript">
+/* <![CDATA[ */
+var clickDebugLink;
+
+jQuery(document).ready( function($) {
+	var single = false, w = 1000,
+		supe = false;
+
+	$(document.body).load(function(){ $('#wpadminbar img.grav-hashed').removeClass('grav-hashed'); }); // hack to hide the gravatar hovercard
+
+	if ( single && supe )
+		w = 1385;
+	else if ( supe )
+		w = 1200;
+
+	// debug bar extra
+	clickDebugLink = function( parent_id, obj ) {
+
+		$('#'+parent_id).children('div').hide();
+
+		document.getElementById( obj.href.substr( obj.href.indexOf( '#' ) + 1 ) ).style.display = 'block';
+		$( obj.href.substr( obj.href.indexOf( '#' ) ) ).show()
+
+		$(obj).parent().addClass('current').siblings('li').removeClass('current');
+
+		return false;
+	};
+
+	$( '#wpadminbar #wp-admin-bar-shortlink' ).click( function() {
+		$( '#adminbar-shortlink-input' ).select();
+	});
+
+	// skip tap-to-hover on site switcher for mobile
+	if ( 'ontouchstart' in window ) {
+		$('#wp-admin-bar-switch-site').on( 'touchstart', function( event ) {
+			if ( $( window ).width() > 782 ) {
+				return;
+			}
+			event.stopPropagation();
+			$( event.target ).first( 'a' ).click();
+		});
+	}
+
+});
+/* ]]> */
+</script>
+	<div class="wpcom-bubble action-bubble">
+		<div class="bubble-txt"></div>
+	</div>
+	<script type="text/javascript">function hideBubble() { jQuery('body').append( jQuery( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble touchstart.bubble' ); jQuery(document).off( 'scroll.bubble' ); };</script>
+		<script type="text/javascript">
+	jQuery( '#wp-admin-bar-jumptotop-button-menu a' ).click( function( e ) {
+		e.preventDefault();
+		jQuery( 'html, body' ).animate( { scrollTop: 0 }, 'fast' );
+	} );
+	function hideShowTbJumpToTop() {
+		var total_width = 0;
+		// Calculate total width taken by items minus our button to see if it'll
+		// overlap with other toolbar menus.
+		jQuery( '#wp-admin-bar-root-default > li' ).each( function() {
+			var self = jQuery( this );
+			if ( 'wp-admin-bar-jumptotop-button-menu' != self.attr( 'id' ) )
+				total_width += self.width();
+		});
+		if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() >= 350 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) < 0 ) {
+			if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 )
+			   return;
+			jQuery( '#jumptotop' ).animate( { 'top': 0 }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() < 1 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) >= 0 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		}
+	}
+	// handle on page load if auto scrolling to a position
+	hideShowTbJumpToTop();
+	// bind to scrolll event
+	var jumpToTopTimer = null;
+	jQuery( window ).scroll( function() {
+		clearTimeout( jumpToTopTimer );
+		jumpToTopTimer = setTimeout( jumpToTopRefresh, 150 );
+	} );
+	var jumpToTopRefresh = function() {
+		hideShowTbJumpToTop();
+	};
+	</script>
+	<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
